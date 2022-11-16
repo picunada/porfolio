@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <nav w-full flex justify-center text-xl py4 px5 backdrop-blur bg-opacity-80>
+  <nav w-full flex justify-center text-xl py4 px5 backdrop-blur-md bg-opacity-90>
     <div w-full max-w-1390px flex items-center justify-between>
       <div>
         <a class="m0" href="https://t.me/picunada" title="Home">

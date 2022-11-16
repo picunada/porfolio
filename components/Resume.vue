@@ -29,7 +29,7 @@
           <div caption>
             Digital-Spirit
           </div>
-          <div caption opacity-60>
+          <div caption text-neutral4>
             <h2>
               QA Engineer, 2021/09 - 2022/04
             </h2>
@@ -42,13 +42,13 @@
           <div caption>
             Lockerbot.io
           </div>
-          <div caption opacity-60>
+          <div caption text-neutral4>
             <h2>
               Fullstack developer, 2022/04 - Up to now
             </h2>
           </div>
           <div text-20px>
-            <p opacity-60>
+            <p text-neutral4>
               Outsource:
             </p>
             <ul ml3>
@@ -56,7 +56,7 @@
               <li>Worked on the backend of the marketplace for private investigators(Django, DRF)</li>
               <li>Creating an admin dashboard for billing</li>
             </ul>
-            <p opacity-60>
+            <p text-neutral4>
               At company product:
             </p>
             <ul ml3>
@@ -74,7 +74,7 @@
           <ul>
             <li>Learn fast</li>
             <li>Like when things done in efficient way, when code optimized</li>
-            <li opacity-60>
+            <li text-neutral4>
               My stack:
             </li>
             <ul ml3>
@@ -91,7 +91,7 @@
     <div title1 mt10>
       Education
     </div>
-    <div caption opacity-60>
+    <div caption text-neutral4>
       Synergy University, Information security, 2020 - Up to now
     </div>
     <div title1 mt10>

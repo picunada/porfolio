@@ -1,9 +1,9 @@
 <script setup>
 useHead({
-  title: 'Picunada Resume',
+  title: 'Picunada',
   link: [
     {
-      rel: 'icon', type: 'image/png', href: '/nuxt.png',
+      rel: 'icon', type: 'image/png', href: '/icon.svg',
     },
   ],
 })
