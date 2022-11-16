@@ -12,10 +12,10 @@
           21 y.o fullstack developer currently working at <a href="https://lockerbot.io/" text-sky icon-btn>Lockerbot.io</a>
         </div>
         <div caption mt5>
-          I like to learn new technologies at the moment I am passionate in mobile development on iOS(Swift UI, Combine),
+          I like to learn new technologies. At the moment I am passionate in mobile development on iOS(Swift UI, Combine),
           also interested in developing smart contracts,
           participated in the Hack-a-TON 1 <a href="https://ton.org/en/hack-a-ton-1" text-sky icon-btn>hackathon</a> ,
-          where with my team(Tetrapak) we won second place by providing a billing system using ton payment channels, at the project i was responsible for the code
+          where with my team(Tetrapak) we won second place by providing a billing system using ton payment channels, at the project i was responsible for the code.
         </div>
       </div>
       <div flex items-center justify-center mt10>
@@ -35,7 +35,7 @@
             </h2>
           </div>
           <div text-20px mt3>
-            Was testing the bus inside the interbank system, worked with Postman, IBM, Swagger, JS
+            Was testing the bus inside the interbank system, worked with Postman, IBM, Swagger, JS.
           </div>
         </div>
         <div mt5>
@@ -73,7 +73,7 @@
         <div caption>
           <ul>
             <li>Learn fast</li>
-            <li>Love when things done in efficient way, when code optimized</li>
+            <li>Like when things done in efficient way, when code optimized</li>
             <li opacity-60>
               My stack:
             </li>
