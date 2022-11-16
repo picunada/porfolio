@@ -17,7 +17,7 @@
       </div>
       <div flex gap3 items-center>
         <a i-carbon-logo-github w8 h8 icon-btn href="https://github.com/picunada" target="_blank" />
-        <a i-cib:linkedin w8 h8 icon-btn href="" />
+        <a i-cib:linkedin w8 h8 icon-btn href="https://www.linkedin.com/in/daniil-bezuglov-4b1418234/" />
         <DarkToggle icon-btn />
       </div>
     </div>
