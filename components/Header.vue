@@ -3,19 +3,21 @@
 </script>
 
 <template>
-  <nav w-full flex justify-center text-xl py4 px5 backdrop-blur>
+  <nav w-full flex justify-center text-xl py4 px5 backdrop-blur bg-opacity-80>
     <div w-full max-w-1390px flex items-center justify-between>
       <div>
-        <RouterLink class="m0" to="/" title="Home">
-          <div animation icon-btn opacity-100 flex m0 class="text-24px font-bold">
-            Picun<p text-sky>
-              ada
+        <a class="m0" href="https://t.me/picunada" title="Home">
+          <div animation icon-btn opacity-100 flex m0 class="text-40px font-bold">
+            Picu<p text-sky>
+              nada
             </p>
+            ?
           </div>
-        </RouterLink>
+        </a>
       </div>
       <div flex gap3 items-center>
-        <a i-carbon-logo-github icon-btn href="https://github.com/picunada" target="_blank" />
+        <a i-carbon-logo-github w8 h8 icon-btn href="https://github.com/picunada" target="_blank" />
+        <a i-cib:linkedin w8 h8 icon-btn href="" />
         <DarkToggle icon-btn />
       </div>
     </div>

@@ -8,6 +8,6 @@ function toggleDark() {
 
 <template>
   <button class="!outline-none" @click="toggleDark">
-    <div class="dark:i-carbon-moon i-carbon-sun" />
+    <div class="w8 h8 dark:(w8 h8) dark:i-carbon-moon i-carbon-sun " />
   </button>
 </template>

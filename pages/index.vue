@@ -1,5 +1,5 @@
 <template>
   <div w-full>
-    <Header />
+    <Resume />
   </div>
 </template>
