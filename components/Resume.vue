@@ -81,6 +81,8 @@
               <li>Python - Django, DRF, Fastapi, Tortoise ORM, aiogram</li>
               <li>JS - Typescript, Vue 3(script setup), Nuxt 3, Pinia or Vuex, Tailwind CSS</li>
               <li>IOS - Swift, SwiftUI, Combine</li>
+              <li>VCS - Git</li>
+              <li>Others: Postman, Swagger, Docker</li>
             </ul>
           </ul>
         </div>
