@@ -3,7 +3,7 @@
 
 <template>
   <div px5>
-    <div grid grid-cols-2 gap10>
+    <div grid md:grid-cols-1 lg:grid-cols-2 gap10>
       <div>
         <div title1 mt10>
           Daniil Bezuglov
@@ -15,7 +15,7 @@
           I like to learn new technologies. At the moment I am passionate in mobile development on iOS(Swift UI, Combine),
           also interested in developing smart contracts,
           participated in the Hack-a-TON 1 <a href="https://ton.org/en/hack-a-ton-1" text-sky icon-btn>hackathon</a> ,
-          where with my team(Tetrapak) we won second place by providing a billing system using ton payment channels, at the project i was responsible for the code.
+          where with my team(Tetrapak) we took second place by providing a billing system using ton payment channels, at the project i was responsible for the code.
         </div>
       </div>
       <div flex items-center justify-center mt10>
