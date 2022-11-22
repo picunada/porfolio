@@ -11,15 +11,14 @@
         <div caption mt3>
           21 y.o fullstack developer currently working at <a href="https://lockerbot.io/" text-sky icon-btn>Lockerbot.io</a>
         </div>
-        <div caption mt5>
-          I like to learn new technologies. At the moment I am passionate in mobile development on iOS(Swift UI, Combine),
-          also interested in developing smart contracts,
-          participated in the Hack-a-TON 1 <a href="https://ton.org/en/hack-a-ton-1" text-sky icon-btn>hackathon</a> ,
-          where with my team(Tetrapak) we took second place by providing a billing system using ton payment channels, at the project i was responsible for the code.
+        <div caption mt3>
+          I'm a fast learner. In July I've participated in telegram team <a href="https://ton.org/en/hack-a-ton-1" text-sky icon-btn>hackathon</a>, where in 3 days i wrote an application in a language that is new to me and using new crypto technology we took 2d place with my team(I was responsible for the code).
+          Also at my current place of work I implemented new technologies aimed at optimizing business processes and user experience of a product that my hand has touched, I've written a couple of microservices(Vue 3 + Django(DRF)/FastAPI + postgresql stack) myself from start to finish with tips from the team lead.
+          At the moment I am passionate in mobile development on iOS(Swift UI, Combine), on my initiative to optimize my company's product we switched from hybrid stack(capacitor.js + Nuxt 3) to native stack(Swift, Swift UI, CoreBluetooth, Combine), in a few weeks i learned new technologies stack and made an mvp application, after that i felled in love with IOS Development.
         </div>
       </div>
       <div flex items-center justify-center mt10>
-        <img shadow-xl h-90 rounded-10 src="/photo.jpeg">
+        <img shadow-xl h-90 rounded-10 src="/photo.jpg">
       </div>
       <div>
         <div title1 mt10>
@@ -52,16 +51,16 @@
               Outsource:
             </p>
             <ul ml3>
-              <li>Created an exchange telegram bot (Python, aiogram, postgresql)</li>
-              <li>Worked on the backend of the marketplace for private investigators(Django, DRF)</li>
-              <li>Creating an admin dashboard for billing</li>
+              <li>Created an exchange telegram bot (Python, aiogram, postgresql).</li>
+              <li>Worked on the backend of the marketplace for private investigators(Django, DRF).</li>
+              <li>Created an admin dashboard for billing with RSA signing messages logic, using Vue 3 + Django(DRF) stack.</li>
             </ul>
             <p text-neutral4>
               At company product:
             </p>
             <ul ml3>
               <li>Worked on hybrid mobile app for home postal terminals(Capacitor, Firebase, nuxt.js)</li>
-              <li>Working on native IOS app for home postal terminals(SwiftUI, Combine, CoreBluetooth BLE, Firebase)</li>
+              <li>Creating native IOS app for home postal terminals(SwiftUI, Combine, CoreBluetooth BLE, Firebase)</li>
             </ul>
           </div>
         </div>
@@ -72,7 +71,7 @@
         </div>
         <div caption>
           <ul>
-            <li>Learn fast</li>
+            <li>Fast learner</li>
             <li>Like when things done in efficient way, when code optimized</li>
             <li text-neutral4>
               My stack:
