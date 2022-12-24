@@ -15,7 +15,8 @@ export default defineConfig({
     ['icon-btn', 'inline-block cursor-pointer select-none transition duration-200 ease-in-out hover:opacity-100 hover:text-sky hover:underline'],
     ['animation', 'transition duration-100 ease-in-out'],
     ['title1', 'text-30px md:text-25px lg:text-40px font-bold'],
-    ['caption', 'text-18px lg:text-20px font-semibold'],
+    ['caption1', 'text-18px lg:text-20px'],
+    ['caption2', 'text-16px lg:text-18px'],
   ],
   presets: [
     presetUno(),
