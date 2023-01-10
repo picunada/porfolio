@@ -103,10 +103,12 @@
     <div title1 mt10>
       Side projects
     </div>
-    <div caption2 flex flex-col>
-      <span>CSV Generator for purchases information (with fields choice).</span>
-      <span>Used Python(FastAPI) for generating csv files.</span>
-      <span>Nuxt 3 for frontend.</span>
+    <div flex flex-col>
+      <span caption2>CSV Generator for purchases information (with fields choice).</span>
+      <ul ml3 text-neutral4>
+        <li>Used Python(FastAPI) for generating csv files.</li>
+        <li>Nuxt 3 for frontend.</li>
+      </ul>
       Project maintained by myself.
       <span icon-btn text-sky>
         <a href="https://zakupki-data-export.multitender.ru">Project</a>
