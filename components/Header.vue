@@ -16,6 +16,7 @@
         </a>
       </div>
       <div flex gap3 items-center>
+        <a i-carbon-email md:w5 md:h5 lg:w8 lg:h8 icon-btn href="mailto: xlaystgoku@gmail.com" />
         <a i-carbon-logo-github md:w5 md:h5 lg:w8 lg:h8 icon-btn href="https://github.com/picunada" target="_blank" />
         <a i-cib:linkedin md:w5 md:h5 lg:w8 lg:h8 icon-btn href="https://www.linkedin.com/in/daniil-bezuglov-4b1418234/" />
         <DarkToggle icon-btn />
