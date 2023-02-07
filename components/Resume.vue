@@ -2,8 +2,8 @@
 </script>
 
 <template>
-  <div flex gap-5>
-    <div grid grid-cols-1 items-start w-200>
+  <div xl:flex md:grid md:grid-cols-1 gap-5 p4>
+    <div grid grid-cols-1 items-start>
       <div flex items-center justify-center mt10>
         <img shadow-xl h-70 rounded-6 src="/photo.jpeg">
       </div>
